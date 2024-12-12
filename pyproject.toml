@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "sandbox_dev_awilson"
 version = "0.0.1"
 authors = [
-    { name = "Alex Wilson", email = "James.Wilson@gtri.gatech.edu" },
+    { name = "John Doe", email = "example@example.com" },
 ]
 description = "A box of sand"
 readme = "README.md"
