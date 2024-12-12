@@ -32,7 +32,7 @@ my_project_name_build
     LICENSE.txt
     README.md
 ```
-Note that every directory and subdirectory has an __init__.py file.  These files are required in order to make your repo a package. It is ok if these files are blank.
+Note that every directory and subdirectory has an \_\_init\_\_.py file.  These files are required in order to make your repo a package. It is ok if these files are blank.
 
 2. Ensure that your license file and README.md is not blank as these files are used by the toml file.  Tht said they are optional, but highly recommended!
 3. Fill out the pyproject.toml with the appropriate values for your project.  See the example in this repo. Ensure that your project name has a unique name so that it does not collide with existing pypi libraries. To check you can go to the following website: https://pypi.org/
